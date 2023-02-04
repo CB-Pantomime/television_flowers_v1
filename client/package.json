@@ -120,5 +120,5 @@
   
   },
   
-  "proxy": "http://localhost:5000"
+  "proxy": "https://blooming-beyond-59584.herokuapp.com/"
 }
